@@ -48,6 +48,8 @@ def _model_platforms_docker_section_data():
                     'email': 'user@example.com',
                 },
             },
+			'user':
+            'root',
             'override_command':
             False,
             'command':
