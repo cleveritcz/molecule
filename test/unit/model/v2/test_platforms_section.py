@@ -165,6 +165,7 @@ def _model_platforms_docker_errors_section_data():
                 },
             },
             'override_command': int(),
+			'user': str(),
             'command': int(),
             'pid_mode': int(),
             'privileged': str(),
