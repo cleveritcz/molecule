@@ -48,7 +48,7 @@ def _model_platforms_docker_section_data():
                     'email': 'user@example.com',
                 },
             },
-			'user':
+            'user':
             'root',
             'override_command':
             False,
@@ -165,7 +165,7 @@ def _model_platforms_docker_errors_section_data():
                 },
             },
             'override_command': int(),
-			'user': str(),
+            'user': str(),
             'command': int(),
             'pid_mode': int(),
             'privileged': str(),
